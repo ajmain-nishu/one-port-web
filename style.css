@@ -71,3 +71,9 @@ p {
     background-repeat: no-repeat;
     background-position-y: center;
 }
+footer p {
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    color: black;
+}
