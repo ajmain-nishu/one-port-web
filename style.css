@@ -32,3 +32,42 @@ h1 {
     background-repeat: no-repeat;
     background-position: right;
 }
+.font-middle {
+    text-align: center;
+}
+.orange-color {
+    color: orange;
+}
+.web-developer {
+    display: flex;
+}
+.half-web {
+    width: 40%;
+    margin: 30px 5%;
+    padding: 30px 40px;
+    box-shadow: 10px 10px 40px gray;
+    border-left: 5px;
+    border-color: blue;
+}
+.font-bold {
+    font-size: 50px;
+}
+p {
+    font-weight: 600;
+    color: gray;
+}
+.first-border {
+    border-image: linear-gradient(orange, tomato);
+    border-left: 10px solid;
+    border-image-slice: 1;
+}
+.second-border {
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+    border-left: 10px solid;
+}
+.experience {
+    background-image: url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: center;
+}
