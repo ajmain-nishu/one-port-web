@@ -26,3 +26,9 @@ h1 {
     font-weight: bold;
     border-radius: 5px;
 }
+.dream {
+    display: flex;
+    background-image: url(./images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
